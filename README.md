@@ -47,14 +47,15 @@ O **Weather App** é uma aplicação web que permite ao usuário consultar infor
       2. Localize as importações:
       ```javascript
       import { apiKey, apiUrl } from './config';
-      import { updateBackgroundImage } from './imageUtils';```
-   3. Adicione a extensão `.js` ao final dos caminhos das importações:
-   ```javascript
-   import { apiKey, apiUrl } from './config.js';
-   import { updateBackgroundImage } from './imageUtils.js';
-4. Abra também o arquivo **imageUtils.js** e adicione a extensão `.js` ao final das importações:
-   ```javascript
-   import { imgApiKey, imgApiUrl } from './config.js';
+      import { updateBackgroundImage } from './imageUtils';
+
+      3. Adicione a extensão `.js` ao final dos caminhos das importações:
+      ```javascript
+      import { apiKey, apiUrl } from './config.js';
+      import { updateBackgroundImage } from './imageUtils.js';
+      4. Abra também o arquivo **imageUtils.js** e adicione a extensão `.js` ao final das importações:
+      ```javascript
+      import { imgApiKey, imgApiUrl } from './config.js';
 ## Tecnologias Utilizadas
 
 - HTML5: Para a estrutura da página.
