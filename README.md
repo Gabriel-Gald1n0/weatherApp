@@ -1,5 +1,8 @@
 # [Weather App](https://new-weather-forecast-app.netlify.app) 🌤️
 
+## Objetivo
+Desenvolver uma aplicação web básica que utilize HTML, CSS e TypeScript para criar uma interface visualmente agradável com dados dinâmicos.
+
 ## Descrição do Projeto
 
 O **Weather App** é uma aplicação web que permite ao usuário consultar informações meteorológicas de diferentes cidades ao redor do mundo. A aplicação exibe dados como temperatura, condições climáticas, umidade, e velocidade do vento. O design é responsivo, oferecendo uma experiência visual agradável em diversos dispositivos, e inclui animações suaves para transições entre diferentes estados, como a exibição de erros quando uma cidade não é encontrada.
@@ -18,7 +21,7 @@ O **Weather App** é uma aplicação web que permite ao usuário consultar infor
    git clone https://github.com/username/weather-app.git
 2. **Navegue até o diretório do projeto:**
    ```bash
-    cd weather-app 
+    cd weatherApp 
 3. **Instale o http-server:**
    ```bash
    npm install -g http-server 
