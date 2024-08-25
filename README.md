@@ -31,7 +31,7 @@ O **Weather App** é uma aplicação web que permite ao usuário consultar infor
 5. **Colar Chaves e atualizar o TypeScript:**
 
    - Cole as chaves na pasta `/src/ts/config.ts` (caso não exista, crie o arquivo). 
-   - Em `apiKey`, cole a chave da OpenWeatherMap e em `imgApiKey`, cole a chave da Pexels. 
+   - Em `apiKey`, cole a chave da **OpenWeatherMap** e em `imgApiKey`, cole a chave da **Pexels**. 
    - Após isso, digite `tsc` no terminal para compilar o arquivo `.ts`.
 
    Exemplo de configuração:
